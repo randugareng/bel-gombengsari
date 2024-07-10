@@ -1,1 +1,1 @@
-https://wedexyz.github.io/Draftbelgombeng/
+https://randugareng.github.io/bel-gombengsari/
