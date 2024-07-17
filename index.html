@@ -404,7 +404,7 @@ var data_out = db.ref("/gb/v1");
 
 data_out.on("value", function(snapshot) {
 //document.getElementById('po').innerHTML=snapshot.val();
-  if (snapshot.val()<150){
+  if (snapshot.val()<100){
            teso();
           //  setTimeout(teso, 1000); 
         }
